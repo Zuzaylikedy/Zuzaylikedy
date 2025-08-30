@@ -1,5 +1,4 @@
 ## Hi I'm Melike ⚡
-## Hi, I'm Melike 👋
 
 - 🎓 I'm studying Electrical & Electronics Engineering</br>
 - 💻 Interested in software development & electronics</br>
